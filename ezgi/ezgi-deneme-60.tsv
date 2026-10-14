@@ -1,0 +1,61 @@
+no	tur_no	tur	cumle	turkce	kaynak	dikkat
+1	1	Düz ve soru çifti	Tu hatî.	Geldin.	Taslak (Claude)	Kelimeler aynı: düz cümlede sonda iniş, soruda sonda yükseliş.
+2	1	Düz ve soru çifti	Tu hatî?	Geldin mi?	Taslak (Claude)	Kelimeler aynı: düz cümlede sonda iniş, soruda sonda yükseliş.
+3	1	Düz ve soru çifti	Ew birçî ye.	O aç.	Common Voice	Kelimeler aynı: düz cümlede sonda iniş, soruda sonda yükseliş.
+4	1	Düz ve soru çifti	Ew birçî ye?	O aç mı?	Common Voice, soru biçimi türetildi	Kelimeler aynı: düz cümlede sonda iniş, soruda sonda yükseliş.
+5	1	Düz ve soru çifti	Çavên we vekirî ne.	Gözleriniz açık.	Common Voice, düz biçimi türetildi	Kelimeler aynı: düz cümlede sonda iniş, soruda sonda yükseliş.
+6	1	Düz ve soru çifti	Çavên we vekirî ne?	Gözleriniz açık mı?	Common Voice	Kelimeler aynı: düz cümlede sonda iniş, soruda sonda yükseliş.
+7	1	Düz ve soru çifti	Tu serpêhatiya fîl û şêr dizanî.	Fil ile aslanın hikâyesini biliyorsun.	Common Voice, düz biçimi türetildi	Kelimeler aynı: düz cümlede sonda iniş, soruda sonda yükseliş.
+8	1	Düz ve soru çifti	Tu serpêhatiya fîl û şêr dizanî?	Fil ile aslanın hikâyesini biliyor musun?	Common Voice	Kelimeler aynı: düz cümlede sonda iniş, soruda sonda yükseliş.
+9	2	Soru sözcüklü soru	Navê te çi ye delalê?	Adın ne, güzelim?	Common Voice	Soru sözcüğü öne çıkıyor mu? Sonda doğal iniş.
+10	2	Soru sözcüklü soru	Hûn ê odeyê kengî vala bikin?	Odayı ne zaman boşaltacaksınız?	Common Voice	Soru sözcüğü öne çıkıyor mu? Sonda doğal iniş.
+11	2	Soru sözcüklü soru	Em amûra telefonê çawa bi kar tînin?	Telefonu nasıl kullanırız?	Common Voice	Soru sözcüğü öne çıkıyor mu? Sonda doğal iniş.
+12	2	Soru sözcüklü soru	Di wêneyê li jêr de çend pirtûk hene?	Aşağıdaki resimde kaç kitap var?	Common Voice	Soru sözcüğü öne çıkıyor mu? Sonda doğal iniş.
+13	3	Gelo / ma sorusu	Gelo ev cî vala ye?	Acaba bu yer boş mu?	Common Voice	'Ma' sorularında sitem ya da şaşkınlık tınısı.
+14	3	Gelo / ma sorusu	Gelo kî dikare ji min re bibêje ka çi qewimiye?	Acaba kim bana ne olduğunu söyleyebilir?	Common Voice	'Ma' sorularında sitem ya da şaşkınlık tınısı.
+15	3	Gelo / ma sorusu	Ma hûn nabînin ku ez mijûl im?	Meşgul olduğumu görmüyor musunuz?	Common Voice	'Ma' sorularında sitem ya da şaşkınlık tınısı.
+16	3	Gelo / ma sorusu	Ma divê ez çend caran ji te re bibêjim?	Sana kaç kez söylemem gerek?	Common Voice	'Ma' sorularında sitem ya da şaşkınlık tınısı.
+17	4	Olumsuzluk	Kew dîsa zimanê xwe ji bîr nake.	Keklik yine dilini unutmaz.	Common Voice	Olumsuzluk eki (na-, ne-, ni-) vurgulu mu?
+18	4	Olumsuzluk	Min hîn xeletiyek nekiriye.	Henüz bir hata yapmadım.	Common Voice	Olumsuzluk eki (na-, ne-, ni-) vurgulu mu?
+19	4	Olumsuzluk	Wê gavê got ku ew bi xwe nikare bide.	O zaman kendisinin veremeyeceğini söyledi.	Common Voice	Olumsuzluk eki (na-, ne-, ni-) vurgulu mu?
+20	4	Olumsuzluk	Em ê nikaribin waneyên xwe baş guhdar bikin.	Derslerimizi iyi dinleyemeyeceğiz.	Common Voice	Olumsuzluk eki (na-, ne-, ni-) vurgulu mu?
+21	5	Emir	Were vir.	Buraya gel.	Common Voice	Kısa, kesin emir ezgisi.
+22	5	Emir	Here ji wî bipirse.	Git ona sor.	Common Voice	Kısa, kesin emir ezgisi.
+23	5	Emir	Here porê xwe li ber çêşmeyê bişo.	Git saçını çeşmenin başında yıka.	Common Voice	Kısa, kesin emir ezgisi.
+24	5	Emir	Bide kêleka îstasyona trênê û bilezîne!	Tren istasyonunun yanına çek ve acele et!	Common Voice	Kısa, kesin emir ezgisi.
+25	6	Seslenme ve ünlem	Mala te ava!	Evin şen olsun! (sağ ol)	Common Voice	Coşku ve seslenme tınısı.
+26	6	Seslenme ve ünlem	Li xwe miqate be!	Kendine dikkat et!	Common Voice	Coşku ve seslenme tınısı.
+27	6	Seslenme ve ünlem	Şansekê bide min!	Bana bir şans ver!	Common Voice	Coşku ve seslenme tınısı.
+28	6	Seslenme ve ünlem	Dayê, ez hatim!	Anne, ben geldim!	Taslak (Claude)	Coşku ve seslenme tınısı.
+29	7	Odak vurgusu	Goristana rasteqîn ne erd e, dil e.	Gerçek mezarlık toprak değil, yürektir.	Common Voice	Karşıtlıkta vurgu doğru kelimede mi?
+30	7	Odak vurgusu	Gulên bêstrî tune ne, lê gelek striyên bêgul hene.	Dikensiz gül yoktur ama gülsüz çok diken vardır.	Common Voice	Karşıtlıkta vurgu doğru kelimede mi?
+31	7	Odak vurgusu	Min ev pirtûk kirî, ne wî.	Bu kitabı ben aldım, o değil.	Taslak (Claude)	Karşıtlıkta vurgu doğru kelimede mi?
+32	7	Odak vurgusu	Min ev pirtûk kirî, ne ew kovar.	Bu kitabı aldım, o dergiyi değil.	Taslak (Claude)	Karşıtlıkta vurgu doğru kelimede mi?
+33	8	Uzun cümle ve liste	Dema ku em van karan dikin, hem laşê me, hem jî mejiyê me diweste.	Bu işleri yaparken hem bedenimiz hem zihnimiz yorulur.	Common Voice	Virgüllerde kısa durak; listede her öğe ayrı ezgiyle.
+34	8	Uzun cümle ve liste	Hewl dide ku çav, poz, guh û dev di cihê wan de xêz bike.	Göz, burun, kulak ve ağzı yerlerine çizmeye çalışıyor.	Common Voice	Virgüllerde kısa durak; listede her öğe ayrı ezgiyle.
+35	8	Uzun cümle ve liste	Wê ji aliyê piştê ve derxînin, bavêjin dûr, û piştre jî destên xwe bişon.	Onu arkadan çıkarın, uzağa atın, sonra da ellerinizi yıkayın.	Common Voice	Virgüllerde kısa durak; listede her öğe ayrı ezgiyle.
+36	8	Uzun cümle ve liste	Heke ev taybetî, ne li gor dilê te be, tu dikarî vebijarka din hilbijêrî.	Bu özellik hoşuna gitmezse diğer seçeneği seçebilirsin.	Common Voice, sona nokta eklendi	Virgüllerde kısa durak; listede her öğe ayrı ezgiyle.
+37	9	Sayı ve tarih	Ez di sala 1986'an de ji dayik bûm.	1986'da doğdum.	Taslak (Claude)	Rakamlar Kürtçe doğru okunuyor mu?
+38	9	Sayı ve tarih	Bihayê vê pirtûkê 250 lîre ye.	Bu kitabın fiyatı 250 lira.	Taslak (Claude)	Rakamlar Kürtçe doğru okunuyor mu?
+39	9	Sayı ve tarih	Otobus di saet 7:30'an de rê dikeve.	Otobüs 7.30'da yola çıkıyor.	Taslak (Claude)	Rakamlar Kürtçe doğru okunuyor mu?
+40	9	Sayı ve tarih	Li gundê me 1.250 kes dijîn.	Köyümüzde 1.250 kişi yaşıyor.	Taslak (Claude)	Rakamlar Kürtçe doğru okunuyor mu?
+41	10	Özel ad ve ödünç kelime	Sê kompûterên min hene.	Üç bilgisayarım var.	Common Voice	Yer adları ve ödünç kelimeler Kürtçe söylenişle mi?
+42	10	Özel ad ve ödünç kelime	Hejmara vê otobusê sî û heşt e.	Bu otobüsün numarası otuz sekiz.	Common Voice	Yer adları ve ödünç kelimeler Kürtçe söylenişle mi?
+43	10	Özel ad ve ödünç kelime	Li Xarpêtê du bûyerên trafîkê çêbûn.	Harput'ta iki trafik kazası oldu.	Common Voice	Yer adları ve ödünç kelimeler Kürtçe söylenişle mi?
+44	10	Özel ad ve ödünç kelime	Em ê sibê bi trênê ji Amedê biçin Stenbolê.	Yarın trenle Amed'den İstanbul'a gideceğiz.	Taslak (Claude)	Yer adları ve ödünç kelimeler Kürtçe söylenişle mi?
+45	11	Duygu	Ez bi dîtina wan gelekî kêfxweş bûm.	Onları görünce çok sevindim. (sevinç)	Common Voice	Duygu sese yansıyor mu?
+46	11	Duygu	Ez ji vî zemanê ku dilê xwe wenda kiriye, ditirsim.	Yüreğini yitirmiş bu çağdan korkuyorum. (korku)	Common Voice	Duygu sese yansıyor mu?
+47	11	Duygu	Her dem xemgîn û bi tena xwe dûrî hevalan diket.	Hep üzgün ve yalnız, arkadaşlarından uzak dururdu. (hüzün)	Common Voice	Duygu sese yansıyor mu?
+48	11	Duygu	Bi rastî? Min qet bawer nedikir!	Gerçekten mi? Hiç inanmazdım! (şaşkınlık)	Taslak (Claude)	Duygu sese yansıyor mu?
+49	12	Diyalog	- Tu çi dixwazî?	- Ne istiyorsun?	Common Voice	Okuma değil, sohbet havası.
+50	12	Diyalog	- Ez şîr dixwazim.	- Süt istiyorum.	Common Voice, diyalog çizgisi eklendi	Okuma değil, sohbet havası.
+51	12	Diyalog	- Roj baş, tu çawa yî?	- İyi günler, nasılsın?	Taslak (Claude)	Okuma değil, sohbet havası.
+52	12	Diyalog	- Baş im, spas. Tu çawa yî?	- İyiyim, sağ ol. Sen nasılsın?	Taslak (Claude)	Okuma değil, sohbet havası.
+53	13	Zor sesler	Şêr şêr e çi jin e çi mêr e.	Aslan aslandır, kadın da olsa erkek de.	Common Voice	x, q, ê, î, û, ç, ş net mi?
+54	13	Zor sesler	Divê em şînatî û mêweyên neşûştî, nexwin.	Yıkanmamış sebze ve meyveleri yememeliyiz.	Common Voice	x, q, ê, î, û, ç, ş net mi?
+55	13	Zor sesler	Rovî birçî dimîne, diçe nêçîrê.	Tilki aç kalır, ava çıkar.	Common Voice	x, q, ê, î, û, ç, ş net mi?
+56	13	Zor sesler	Em bi kêfxweşî li benda çîrçîrokên dayîkê bûn.	Annemizin masallarını sevinçle beklerdik.	Common Voice, sona nokta eklendi	x, q, ê, î, û, ç, ş net mi?
+57	14	Vurguyla anlamı değişen	Ew hatin.	Onlar geldi. (beklenen: HA-tin)	Taslak (Claude)	Vurgu nerede? HA-tin (geldiler) / ha-TIN (gelmek).
+58	14	Vurguyla anlamı değişen	Hatin hêsan e, lê çûn zehmet e.	Gelmek kolay, gitmek zor. (beklenen: ha-TIN)	Taslak (Claude)	Vurgu nerede? HA-tin (geldiler) / ha-TIN (gelmek).
+59	14	Vurguyla anlamı değişen	Ew rûniştin.	Onlar oturdu. (beklenen: vurgu başta)	Taslak (Claude)	Vurgu nerede? HA-tin (geldiler) / ha-TIN (gelmek).
+60	14	Vurguyla anlamı değişen	Rûniştin xweş e.	Oturmak güzel. (beklenen: vurgu sonda)	Taslak (Claude)	Vurgu nerede? HA-tin (geldiler) / ha-TIN (gelmek).

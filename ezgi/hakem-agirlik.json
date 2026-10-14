@@ -1,0 +1,8 @@
+{
+ "w": [
+  -0.7538700221940806,
+  0.14989484636776665,
+  0.3470196335237548
+ ],
+ "aciklama": "p(soru)=sigmoid(w0+w1*son15+w2*tepe60); CV 27 kmr okuma kaydıyla ayarlandı (düz vs evet/hayır sorusu)"
+}
