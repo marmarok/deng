@@ -15,9 +15,9 @@ Kürtçe için iki yapay zekâ modeli yapan açık bir proje.
 Büyük diller için bu araçlar var, Kürtçe için yok ya da çok zayıf. Bugünkü makine sesleri Kürtçeyi yabancı ağzıyla okuyor: vurgu yanlış düşüyor, soru düz cümle gibi söyleniyor. Kürtçede vurgu ve ezgi anlamı taşıdığı için bunları ilk günden ölçüyoruz.
 
 **3. Projeyi kim yürütüyor? Kodu kim yazıyor?**
-- **Proje yürütücüsü:** Ana dili Kürtçe olan biri. Yazılımcı değil ve daha önce hiç yapay zekâ modeli eğitmedi. Kararlar ve sorumluluk onun.
-- **Kodu, ölçümleri ve hesapları:** Claude yazıyor. Claude, Anthropic şirketinin yapay zekâsı.
-- **Ekip:** İki ekip arkadaşı kendi Kaggle hesaplarıyla bilgisayar gücü veriyor.
+- **Proje yürütücüsü:** Bir ekip. yapay zeka kullanarak yapıyor. 
+- **Kodu, ölçümleri ve hesapları:** Claude yazıyor. Claude'ın en yetenekli modelleri ve muadilleri. 
+- **Ekip:** birkaç kişi. yeni katılımcılara açık ve katılmak isteyenleri (Kürtçe bilsin-bilmesin) bekliyoruz.
 
 Bunu açıkça söylüyoruz. Önemli olan kodu kimin yazdığı değil, sonucun ölçülmesi ve herkesin görebilmesi.
 
@@ -62,7 +62,7 @@ Hazır bir temel model alıyoruz ve ona Kürtçe ses ile doğru yazısını gös
 - **Defter:** DEFTER.md her işin nerede yapıldığını yazar: ekran kartı mı, işlemci mi, Claude'un kendisi mi, Mac mi.
 
 **11. Ne kadar para harcandı?**
-Bugüne kadar sıfır. Her harcama proje yürütücüsünün onayına bağlı.
+
 
 **12. Bölücü (tokenizer) nedir? Kürtçeye uyarlanmalı mı?**
 - **Ne yapar:** Model yazıyı harf ya da sözcük olarak değil, küçük parçalar halinde görür. Bu parçaları ayıran araca bölücü denir.
