@@ -15,9 +15,9 @@ Projeyeke vekirî ye ku ji bo kurdî du modelên hişê çêkirî fêrî kurdî 
 Ji bo zimanên mezin ev amûr hene; ji bo kurdî tune ne an jî gelek qels in. Dengên makîneyê yên îroyîn kurdî bi devê biyaniyan dixwînin: giranî li cihê xelet dikeve, pirs wek hevoka asayî tê gotin. Di kurdî de giranî û awaz wateyê hildigirin. Ji ber vê yekê em wan ji roja yekem ve dipîvin.
 
 **3. Kî projeyê dimeşîne? Kî kodê dinivîse?**
-- **Birêvebirê projeyê:** Kurdî zimanê wî yê dayikê ye. Ew ne bernameçêker e û berê qet modeleke hişê çêkirî perwerde nekiribû. Biryar û berpirsiyarî yên wî ne.
-- **Kod, pîvan û hesab:** Ji aliyê Claude ve tên kirin. Claude hişê çêkirî yê şîrketa Anthropic e.
-- **Ekîb:** Du hevalên ekîbê bi hesabên xwe yên Kaggle hêza komputerê didin.
+- **Birêvebirê projeyê:** Komeke dilxwazên Kurdî.
+- **Kod, pîvan û hesab:** Ji aliyê Claude ve tên kirin. Claude u modelên dî. 
+- **Ekîb:** 
 
 Em vê yekê vekirî dibêjin. Tiştê girîng ne ew e ku kî kodê dinivîse; tiştê girîng ew e ku encam tê pîvandin û her kes dikare wê bibîne.
 
@@ -62,7 +62,7 @@ Em modeleke bingehîn a amade digirin û dengê kurdî bi nivîsa wê ya rast n�
 - **Defter:** DEFTER.md dinivîse ka her kar li ku hatiye kirin: karta grafîkê, pêvajoker, Claude bi xwe an Mac.
 
 **11. Çiqas pere hatiye xerckirin?**
-Heta niha qet. Her xerc bi erêkirina birêvebirê projeyê ve girêdayî ye.
+
 
 **12. Parçeker çi ye? Divê ji bo kurdî were guhertin?**
 - **Çi dike:** Model nivîsê ne wek tîp an peyv, wek perçeyên biçûk dibîne. Amûra ku nivîsê dike perçe jê re parçeker tê gotin.
