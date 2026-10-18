@@ -13,7 +13,7 @@ Di kurdî de giranî û awaz her tişt e. Ji ber vê yekê em pêşî awazê dip
 
 - **Guh:** Bingeh **Omnilingual LLM-ASR 1B** e (Meta, Apache 2.0). Li ser heman 500 beşan guhê me cara yekem ji modela bingehîn çêtir derket: xeletiya peyvan %29,3 → %26,4. Perwerdeya tam didome.
 - **Dane:** Ji arşîva Dengê Amerîka ~1.020 saet axaftin hatin berhevkirin (malê giştî). Berî perwerdeyê, her beş dê bi modeleke nasîna zimên bê kontrolkirin.
-- **Deng:** VoxCPM2 (Apache 2.0) kurdî hîn dibe. Ceribandinekê awaza pirsê fêr bû (pirsên erê/na %47 → %87); zelalî hîn tê baştirkirin.
+- **Deng:** VoxCPM2 (Apache 2.0) kurdî hîn dibe. Di ceribandina dawî de, li ser 257 hevokan, pirs bi qasî xwendevanên mirov rast in (%70; mirov %69); zelalî hîn tê baştirkirin.
 - **Hakemê awazê:** Amûreke ku awaza dawiya hevokê dipîve û dibêje "pirs e an hevoka asayî ye".
 - **Koma hevokên awazê:** 257 hevok, 14 cure. Ev hevok qet nakevin perwerdeyê.
 

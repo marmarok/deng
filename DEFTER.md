@@ -115,7 +115,16 @@ Di kurdî de giranî û awaz her tişt e. Ji ber vê yekê her pêngav bi awazê
 - ✅ 15.10 · 🖥️ hesabê deng · Ceribandina 2: Fêrbûna awaza pirsê bi pirsên Common Voice. Hakemê awazê: pirs 13/15 (%87), hevoka asayî 38/44 (%86). Lê zelalî kêm bû.
 - ❌ 17.10 · 🖥️ · Ceribandina 3 (bi tomarên paqij, ji bo ku zelalî vegere): Têk çû û tomar vala ma. Kod ji nû ve û bi ewlehî hate nivîsîn.
 - ✅ 18.10 · 🖥️ · Ceribandina 3b: Perwerde qediya (1.341 gav, 9,5 saet dane). Herdu model hemû 257 hevokên awazê xwendin. Gava dawî, ku puan dide, têk çû.
-- ⏳ 18.10 · 🖥️ · Puankirina Ceribandina 3b, bi tena serê xwe, wek karekî cuda.
+- ✅ 18.10 · 🖥️ · Puankirina Ceribandina 3b (257 hevok, herdu model li ser heman hevokan):
+
+  | | Xeletiya tîpan | Pirs wek pirs | Hevoka asayî wek asayî |
+  |---|---|---|---|
+  | Xwendevanên mirov | — | %69 | %89 |
+  | Ceribandina 2 | **%10,0** | %66 | %82 |
+  | Ceribandina 3b | %15,8 | **%70** | **%87** |
+
+  - **Awaz:** Ceribandina 3b baştir e; di pirsan de gihîşt asta xwendevanên mirov.
+  - **Zelalî:** Zelalî venegeriya, xirabtir bû. Li dorê: dîtina sedemê.
 - ⬜ · 👤 · Xwediyên deng: jinek û mêrek, bi ceribandina guhdariyê ya bê nav.
 
 ## Awaz û giranî
