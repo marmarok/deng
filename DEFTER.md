@@ -102,7 +102,14 @@ Di kurdî de giranî û awaz her tişt e. Ji ber vê yekê her pêngav bi awazê
   | Guhê me | **%7,88** | **%26,37** |
 
   Ev cara yekem e ku guhê me ji modela bingehîn çêtir derdikeve.
-- ⏳ 18.10 · 🖥️ · Perwerdeya tam: 2.800 gav, ~6,5 saet. Di dawiyê de ezmûna bi 999 beşan heye.
+- ✅ 18.10 · 🖥️ hesabê guh · Perwerdeya tam: 2.800 gav, 6,3 saet. Li ser heman 500 beşan:
+
+  | | CER | WER |
+  |---|---|---|
+  | Modela bingehîn | %8,89 | %29,25 |
+  | Guhê me | **%7,39** | **%24,27** |
+
+  Xeletiya peyvan %17 kêm bû. Li ser hemû 999 beşan: CER %7,1, WER %24,2.
 - ⬜ · 🖥️ · Perwerdeya bi daneyên Dengê Amerîka (piştî kontrola zimên).
 - ⬜ · 👤 · Koma ezmûnê ya her devokê: pêşî Başûr-rojhilat, Başûr û Bakur-rojava; paşê Bakur (Serhed) û Başûr-rojava.
 
