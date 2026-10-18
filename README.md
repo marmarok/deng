@@ -40,6 +40,7 @@ Ji bo pirs û pêşniyaran beşa **Issues** heye. Ji bo vê hesabekî belaş ê 
 | `guh/` | Nivîsandina reşnivîsê: LLM 1B nivîsê dide, CTC wextê peyvan |
 | `nivis/` | Amadekirina nivîsê (hejmar, şapka ê/î/û) |
 | `pivan/` | Encamên pîvanan (bi tirkî), di nav de dengên ku alfabe nîşan nade |
+| `dane/` | Lîsteya hemû tomaran: kîjan ketiye perwerdeyê, kîjan li dorê ye |
 | `DEFTER.md` | Hemû gav û yên li dorê |
 
 Lîsans: MIT (kod). Daneyên kesên din li vir nînin.
