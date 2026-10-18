@@ -11,9 +11,25 @@ Di kurdî de giranî û awaz her tişt e. Ji ber vê yekê em pêşî awazê dip
 
 ### Heta niha
 
-- **Guh:** Me modelên vekirî li ser kurmancî ceriband (FLEURS û Common Voice). Bingeha guh **Omnilingual LLM-ASR 1B** e (Apache 2.0): bêyî perwerdeyê, li ser FLEURS ji 100 peyvan 31 xelet. Perwerdeya wê dest pê kiriye.
-- **Hakemê awazê:** Amûreke ku awaza dawiya hevokê dipîve û dibêje "pirs e an hevoka asayî ye". Dengên makîneyê yên îroyîn pirsên erê/na di kêmtirî nîvê de rast dibêjin; xwendevanên mirov di %69 de.
-- **Koma hevokên awazê:** 257 hevok, 14 cure (pirs, ferman, gazî, hest, diyalog…). Piraniya wan ji Common Voice in (CC0). Ev hevok qet nakevin perwerdeyê.
+- **Guh:** Bingeh **Omnilingual LLM-ASR 1B** e (Meta, Apache 2.0). Li ser heman 500 beşan guhê me cara yekem ji modela bingehîn çêtir derket: xeletiya peyvan %29,3 → %26,4. Perwerdeya tam didome.
+- **Dane:** Ji arşîva Dengê Amerîka ~1.020 saet axaftin hatin berhevkirin (malê giştî). Berî perwerdeyê, her beş dê bi modeleke nasîna zimên bê kontrolkirin.
+- **Deng:** VoxCPM2 (Apache 2.0) kurdî hîn dibe. Ceribandinekê awaza pirsê fêr bû (pirsên erê/na %47 → %87); zelalî hîn tê baştirkirin.
+- **Hakemê awazê:** Amûreke ku awaza dawiya hevokê dipîve û dibêje "pirs e an hevoka asayî ye".
+- **Koma hevokên awazê:** 257 hevok, 14 cure. Ev hevok qet nakevin perwerdeyê.
+
+Her gav bi dîrok, bi cihê ku lê hatiye kirin û bi encamê xwe di **[DEFTER.md](DEFTER.md)** de ye. Tiştên li dorê jî li wir in.
+
+### Beşdar bibe
+
+Ji bo piraniya karan kod ne pêwîst e; kurdî û telefonek bes e.
+
+- **Edîtorê zimên:** Nivîsa makîneyê rast dike, qaîdeyên giranî û bilêvkirinê dinivîse.
+- **Guhdar:** Dengan guhdarî dike û dibêje kîjan xwezayî ye. 15 deqe di du hefteyan de.
+- **Xwediyê deng:** Bi dengê xwe dixwîne, bi peymaneke nivîskî.
+- **Çavkanî û destûr:** Tomarên kurdî dibîne û destûrê dixwaze.
+- **Bernameçêker:** Ne mecbûrî ye.
+
+Ji bo pirs û pêşniyaran beşa **Issues** heye. Ji bo vê hesabekî belaş ê GitHubê bes e. Agahiyên kesane li vir nayên weşandin.
 
 ### Pel
 
@@ -23,7 +39,8 @@ Di kurdî de giranî û awaz her tişt e. Ji ber vê yekê em pêşî awazê dip
 | `ezgi/` | Hakemê awazê û koma hevokan |
 | `kulak/` | Nivîsandina reşnivîsê: LLM 1B nivîsê dide, CTC wextê peyvan |
 | `metin/` | Amadekirina nivîsê (hejmar, şapka ê/î/û) |
-| `olcumler/` | Encamên pîvanan (bi tirkî) |
+| `olcumler/` | Encamên pîvanan (bi tirkî), di nav de dengên ku alfabe nîşan nade |
+| `DEFTER.md` | Hemû gav û yên li dorê |
 
 Lîsans: MIT (kod). Daneyên kesên din li vir nînin.
 
