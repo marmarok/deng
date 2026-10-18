@@ -7,7 +7,7 @@ Ev pirs ji wan pirsên ku birêvebirê projeyê heta niha pirsîne û ji yên ku
 ## Proje
 
 **1. Deng çi ye?**
-Projeyeke vekirî ye ku ji bo kurdî du modelên zekaya sûnî çêdike.
+Projeyeke vekirî ye ku ji bo kurdî du modelên hişê çêkirî fêrî kurdî dike.
 - **Guh:** Axaftina kurdî guhdarî dike û dinivîse. Armanc ew e ku sohbeteke asayî fêm bike.
 - **Deng:** Nivîsê bi kurdî dixwîne. Armanc dengekî ewqas xwezayî ye ku guhdarekî kurd nikaribe wî ji dengê mirovan cuda bike.
 
@@ -15,13 +15,13 @@ Projeyeke vekirî ye ku ji bo kurdî du modelên zekaya sûnî çêdike.
 Ji bo zimanên mezin ev amûr hene; ji bo kurdî tune ne an jî gelek qels in. Dengên makîneyê yên îroyîn kurdî bi devê biyaniyan dixwînin: giranî li cihê xelet dikeve, pirs wek hevoka asayî tê gotin. Di kurdî de giranî û awaz wateyê hildigirin. Ji ber vê yekê em wan ji roja yekem ve dipîvin.
 
 **3. Kî projeyê dimeşîne? Kî kodê dinivîse?**
-- **Birêvebirê projeyê:** Kurdî zimanê wî yê dayikê ye. Ew ne bernameçêker e û berê qet modeleke zekaya sûnî perwerde nekiribû. Biryar û berpirsiyarî yên wî ne.
-- **Kod, pîvan û hesab:** Ji aliyê Claude ve tên kirin. Claude zekaya sûnî ya şîrketa Anthropic e.
+- **Birêvebirê projeyê:** Kurdî zimanê wî yê dayikê ye. Ew ne bernameçêker e û berê qet modeleke hişê çêkirî perwerde nekiribû. Biryar û berpirsiyarî yên wî ne.
+- **Kod, pîvan û hesab:** Ji aliyê Claude ve tên kirin. Claude hişê çêkirî yê şîrketa Anthropic e.
 - **Ekîb:** Du hevalên ekîbê bi hesabên xwe yên Kaggle hêza komputerê didin.
 
 Em vê yekê vekirî dibêjin. Tiştê girîng ne ew e ku kî kodê dinivîse; tiştê girîng ew e ku encam tê pîvandin û her kes dikare wê bibîne.
 
-**4. Mirov dikare ji kod û hejmarên ku zekaya sûnî nivîsîne bawer bike?**
+**4. Mirov dikare ji kod û hejmarên ku hişê çêkirî nivîsîne bawer bike?**
 Divê mirov bi çavên girtî bawer neke. Ji ber vê yekê:
 - Her hejmar ji pelekî pîvanê tê.
 - Kod vekirî ye; kesê bixwaze dikare heman karî dîsa bimeşîne.
@@ -187,7 +187,7 @@ Armanc di sohbetê de di 100 tîpan de herî zêde 5 xeletî ye. Em hîn di rê 
 Na. Ji bo piraniya karan kurdî û telefonek bes e. Dilxwazên ku kodê dizanin jî dikarin beşdar bibin.
 
 **28. Hesabê Claude pêwîst e?**
-Na. Karên zekaya sûnî ji aliyê projeyê ve tên kirin; beşdar guhdarî dikin, dixwînin, rast dikin û tomar dikin.
+Na. Karên hişê çêkirî ji aliyê projeyê ve tên kirin; beşdar guhdarî dikin, dixwînin, rast dikin û tomar dikin.
 
 **29. Kîjan kar hene?**
 
@@ -253,7 +253,7 @@ Beşdarbûn bi dilxwazî û belaş e. Navê beşdaran di lîsteya "Keda wan heye
 
 ## Ewlehî û xeter
 
-**38. Heke zekaya sûnî tiştan ji xwe çêbike, çi dibe?**
+**38. Heke hişê çêkirî tiştan ji xwe çêbike, çi dibe?**
 - **Hejmar ji ku tên:** Her hejmar bi pelekî pîvanê ve girêdayî ye. Encameke ku di pelekî de tune be nayê gotin.
 - **Tiştên nenas:** Tiştên ku nayên zanîn wek "texmîn" tên nivîsîn.
 - **Mînakên kurdî:** Di mînakên kurdî de xetera çêkirinê heye, ji ber vê yekê kesekî ku kurdî zimanê wî yê dayikê ye kontrol dike. Mînak: cotê "ker/kerr" carekê wek mînakeke xelet hatibû nivîsîn; hate rastkirin.
