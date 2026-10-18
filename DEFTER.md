@@ -70,6 +70,8 @@ Di kurdî de giranî û awaz her tişt e. Ji ber vê yekê her pêngav bi awazê
 - ✅ 18.10 · 🤖 · Etîketa devokê: her tomar bajar û navçe, devok (pênc herêm) û cureya axaftinê (`region`, `dialect`, `register`).
 - ⬜ · 🤖 · Etîketa devokê li daneyên heyî zêde dibe.
 - ⬜ · 🤖 · Lîsansa danegeha devokan a Manchesterê tê lêkolîn.
+- ✅ 18.10 · 🤖 · **Qaîdeyên ketina perwerdeyê** (berî ku encamên pîvanê bên, hatin nivîsîn): kontrola zimên ji deng û nivîsê; tenê tiştên ku VOA bi xwe çêkirine (beşa vîdyoyan li derve); çar çînên kalîteyê (guh hemû, deng tenê A û B); di perwerdeya guh de nîv bi nîv nivîsa mirovan û Dengê Amerîka, pêşî ceribandineke du alî. `dane/qaideyen-ketina-perwerdeye.json`
+- ✅ 18.10 · 🤖 · Pirs û bersiv bi sê zimanan: `PIRS-U-BERSIV.md`, `SSS.md`, `FAQ.md`.
 - ⬜ · 🖥️ · **Kontrola zimên:** Hinek beşên Dengê Amerîka dibe ku bi tirkî, erebî an îngilîzî bin, wek hevpeyvîn an wergerandin. Berî perwerdeyê her beş bi modeleke nasîna zimên (MMS-LID) tê kontrolkirin; ya ne kurdî dernakeve perwerdeyê.
 
 ## G · Reşnivîs (nivîsa makîneyê ji bo arşîvê)

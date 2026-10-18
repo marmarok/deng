@@ -1,0 +1,93 @@
+{
+ "version": 1,
+ "date": "2026-10-18",
+ "note": "Pre-registered: written before the language-gate measurement (k6-lid-cpu-diag) finished. Thresholds are picked by the rules below, not by looking at which value keeps more data. Any change gets a new version and a dated reason in veri/egitime-giris-kurallari.md.",
+ "language_gate": {
+  "audio": {
+   "model": "facebook/mms-lid-4017",
+   "label": "kmr",
+   "label_if_kmr_missing": "kur",
+   "candidates": [0.9, 0.8, 0.7, 0.5, 0.3, 0.2, 0.1],
+   "pick": "largest candidate with recall on control-kmr >= 0.95",
+   "weak_if": "false accept on control-tur, control-arb or control-eng > 0.02 at the picked value; then the audio check alone is not trusted and the human audit decides",
+   "default": 0.5
+  },
+  "text": {"model": "cis-lmu/glotlid", "rule": "top-1 label == kmr_Latn"},
+  "combine": "pass only if audio AND text pass",
+  "file_flag": "a file with more than half of its segments failing goes to review as a whole; none of it enters training until reviewed",
+  "human_audit": {
+   "accepted_sample": 20, "rejected_sample": 20, "listener": "native Kurdish speaker",
+   "tighten_if_non_kurdish_in_accepted_at_least": 3,
+   "loosen_if_kurdish_in_rejected_at_least": 5
+  }
+ },
+ "license": {
+  "source_terms": "https://www.voanews.com/p/5338.html: material produced exclusively by VOA is public domain; AFP, AP and Reuters material is not",
+  "exclude_sections": ["video"],
+  "exclude_if_page_credits": ["AP", "Associated Press", "Reuters", "AFP", "Agence France-Presse"],
+  "exclude_music_from_public_release": true,
+  "attribution": "Courtesy of Voice of America (dengeamerika.com)"
+ },
+ "quality": {
+  "measures": ["DNSMOS P.835 SIG/BAK/OVRL", "narrowband check (energy above 4.5 kHz vs below 4 kHz)", "music under speech", "speaker change inside the segment"],
+  "narrowband_if_hf_ratio_db_below": -35,
+  "classes": {
+   "A": "OVRL >= 3.3 and SIG >= 3.5 and wideband and no music",
+   "B": "OVRL >= 3.0 and wideband and no music",
+   "C": "narrowband (telephone) or 2.5 <= OVRL < 3.0",
+   "D": "OVRL < 2.5 or music under speech"
+  },
+  "first_check": "50 segments per class listened to before the classes are used; the 4.5 kHz and 3.3 values are first guesses"
+ },
+ "ear_training": {
+  "teacher": "k5-norm1 (ear account), step_2500",
+  "redraft_order": ["hevpeyvin", "mevan-u-mijar", "radyo"],
+  "filters": {
+   "language_gate": true,
+   "ctc1b_agreement_cer_max": 0.10,
+   "ctc1b_agreement_rule": "0.10 unless the norm1 drafts kept at 0.10 have WER > 25% on the page-matched segments; then 0.05",
+   "chars_per_second": "inside [Q1 - 1.5 IQR, Q3 + 1.5 IQR] of the human training labels",
+   "repeat_loop": "reject if any word 3-gram appears 4 or more times",
+   "duration_s": [1, 30],
+   "quality_classes": ["A", "B", "C", "D"]
+  },
+  "mix": {"human_share_of_each_batch": 0.5, "human": "CV27 + FLEURS train, 48,105 clips, 61.5 h", "pseudo": "filtered VOA"},
+  "diag": {
+   "start": "norm1 step_2500",
+   "arms": {"control": "+800 steps, human data only", "voa50": "+800 steps, half human half VOA"},
+   "accept_if": "voa50 WER on voa_matched at least 1.0 lower than control, and CV and FLEURS WER each no more than 0.5 above control",
+   "if_accepted": "full run (2,800 steps); the new model redrafts and the filter may loosen to 0.15 in round 2",
+   "if_rejected": "no VOA in ear training until a human-corrected set shows why"
+  }
+ },
+ "voice_training": {
+  "quality_classes": ["A", "B"],
+  "never": ["C", "D"],
+  "single_speaker": true,
+  "duration_s": [3, 20],
+  "ctc1b_agreement_cer_max": 0.05,
+  "chars_per_second": "same IQR rule as the ear",
+  "max_share_per_speaker": 0.10,
+  "text": "lowercase; keep . , ? !; numbers and abbreviations written out by metin/hazirla.py; NFC; the same function at training and at speaking time",
+  "punctuation": "restored by a Kurdish punctuation model trained on written Kurdish (VOA page texts, CV sentences)",
+  "drop_ambiguous_questions": "drop a segment when the intonation judge says question with p >= 0.8 but the text has no '?', or the text has '?' and the judge says statement with p >= 0.8",
+  "human_data_always_in": "CV + FLEURS (and later our own recordings)",
+  "final_voice": "last fine-tune only on our own class A recordings (Durak 4)",
+  "diag_first": "LoRA with VOA A+B vs the Deneme 2 recipe, scored on the 257-sentence intonation set"
+ },
+ "tests": {
+  "voa_matched": "153 segments (0.46 h) whose label is the page text written by people; all 72 files they come from stay out of training",
+  "voa_holdout": "files with md5(file) % 100 < 3; never in training; to be corrected by native speakers",
+  "conversation_test": "goal metric: Botan conversation recording + corrected voa_holdout; target CER <= 5",
+  "report": "every ear result per test set and per quality class"
+ },
+ "human_listening": {
+  "ear": "50 segments (20 VOA, 15 CV, 15 FLEURS): judge hears the audio, sees the machine text, rates meaning (right / small errors / wrong / cannot tell), corrects it, then sees the reference and says whether the reference itself is right",
+  "voice": "30 intonation-set sentences x (Deneme 2, Deneme 3b, the human CV recording of the same sentence), blind and shuffled: human or machine; natural 1-5; understandable 1-5; for questions: sounds like a question yes/no",
+  "first_judge": "the project lead, then the language editors"
+ },
+ "text_format": {
+  "ear": "Meta text_normalize kmr: lowercase, no punctuation, Bedirxan letters; ʿ ḧ ẍ are not written (standard spelling); a separate pronunciation layer may carry them later",
+  "tokenizer": "no change now: the ear tokenizer knows every Kurdish letter; the voice tokenizer test stays in Durak 3"
+ }
+}

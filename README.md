@@ -2,6 +2,8 @@
 
 **Kurdî (Kurmancî)** · [English](#english)
 
+**Pirs û bersiv:** [Kurdî](PIRS-U-BERSIV.md) · [Türkçe](SSS.md) · [English](FAQ.md)
+
 Projeyeke vekirî ye û du armancên wê hene:
 
 1. **Guh:** Modeleke ku axaftineke rojane ya kurdî fêm dike û dinivîse.
