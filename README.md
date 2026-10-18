@@ -14,7 +14,7 @@ Di kurdî de giranî û awaz her tişt e. Ji ber vê yekê em pêşî awazê dip
 - **Guh:** Bingeh **Omnilingual LLM-ASR 1B** e (Meta, Apache 2.0). Li ser heman 500 beşan guhê me cara yekem ji modela bingehîn çêtir derket: xeletiya peyvan %29,3 → %26,4. Perwerdeya tam didome.
 - **Dane:** Ji arşîva Dengê Amerîka ~1.020 saet axaftin hatin berhevkirin (malê giştî). Berî perwerdeyê, her beş dê bi modeleke nasîna zimên bê kontrolkirin.
 - **Deng:** VoxCPM2 (Apache 2.0) kurdî hîn dibe. Di ceribandina dawî de, li ser 257 hevokan, pirs bi qasî xwendevanên mirov rast in (%70; mirov %69); zelalî hîn tê baştirkirin.
-- **Hakemê awazê:** Amûreke ku awaza dawiya hevokê dipîve û dibêje "pirs e an hevoka asayî ye".
+- **Pîvera awazê:** Amûreke ku awaza dawiya hevokê dipîve û dibêje "pirs e an hevoka asayî ye".
 - **Koma hevokên awazê:** 257 hevok, 14 cure. Ev hevok qet nakevin perwerdeyê.
 
 Her gav bi dîrok, bi cihê ku lê hatiye kirin û bi encamê xwe di **[DEFTER.md](DEFTER.md)** de ye. Tiştên li dorê jî li wir in.
@@ -36,10 +36,10 @@ Ji bo pirs û pêşniyaran beşa **Issues** heye. Ji bo vê hesabekî belaş ê 
 | Peldank | Çi tê de ye |
 |---|---|
 | `kaggle/` | Ceribandin û perwerdeya guh li ser Kaggle (K2 ceribandin, K3 CTC, K4 LLM 1B) |
-| `ezgi/` | Hakemê awazê û koma hevokan |
-| `kulak/` | Nivîsandina reşnivîsê: LLM 1B nivîsê dide, CTC wextê peyvan |
-| `metin/` | Amadekirina nivîsê (hejmar, şapka ê/î/û) |
-| `olcumler/` | Encamên pîvanan (bi tirkî), di nav de dengên ku alfabe nîşan nade |
+| `awaz/` | Pîvera awazê û koma hevokan |
+| `guh/` | Nivîsandina reşnivîsê: LLM 1B nivîsê dide, CTC wextê peyvan |
+| `nivis/` | Amadekirina nivîsê (hejmar, şapka ê/î/û) |
+| `pivan/` | Encamên pîvanan (bi tirkî), di nav de dengên ku alfabe nîşan nade |
 | `DEFTER.md` | Hemû gav û yên li dorê |
 
 Lîsans: MIT (kod). Daneyên kesên din li vir nînin.
@@ -65,4 +65,4 @@ In Kurdish, stress and intonation carry meaning, so prosody is measured first.
   - Current TTS models get question intonation right less than half the time.
 - **Prosody test set:** 257 sentences in 14 types, mostly from Common Voice (CC0). These sentences are locked and never used for training.
 
-Results are in `olcumler/` (in Turkish). Code is MIT-licensed. No third-party recordings are included.
+Results are in `pivan/` (in Turkish). Code is MIT-licensed. No third-party recordings are included.

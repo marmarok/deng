@@ -29,7 +29,7 @@ Dîrok bi rêza roj.meh in; sal 2026 e.
 2. **Deng:** Dengekî kurdî yê ewqas xwezayî ku axêverekî zikmakî nizanibe mirov e an makîne ye.
 
 - **Zimanê sereke:** kurdiya standard, yanî zimanê nivîs, pirtûk, nûçe û medyayê.
-- **Devok:** Her tomar bi devoka xwe tê nîşankirin. Ji bo devokan em li dabeşkirina zimanzanan dinêrin: Öpengin û Haig (2014), pênc herêm. Bnr. `AGIZLAR`.
+- **Devok:** Her tomar bi devoka xwe tê nîşankirin. Ji bo devokan em li dabeşkirina zimanzanan dinêrin: Öpengin û Haig (2014), pênc herêm. (Öpengin û Haig 2014).
 
 Di kurdî de giranî û awaz her tişt e. Ji ber vê yekê her pêngav bi awazê jî tê pîvandin.
 
@@ -43,7 +43,7 @@ Di kurdî de giranî û awaz her tişt e. Ji ber vê yekê her pêngav bi awazê
 - ✅ 13.10 · 🖥️ · Sê modelên dengê yên heyî hatin pîvandin: Anadil, VoxCPM2, MMS.
 - ✅ 14.10 · 🤖 · Koma hevokên awazê: 60 → 257 hevok, 14 cure (pirs, ferman, gazî, hest, diyalog…).
   - Kilîda ezmûnê heye: ev hevok qet nakevin perwerdeyê.
-- ✅ 14.10 · 🤖 💻 · Hakemê awazê: amûreke ku dibêje "pirs e an hevoka asayî ye". Li ser xwendevanên mirov: hevoka asayî %89, pirs %69.
+- ✅ 14.10 · 🤖 💻 · Pîvera awazê: amûreke ku dibêje "pirs e an hevoka asayî ye". Li ser xwendevanên mirov: hevoka asayî %89, pirs %69.
   - Dîtin: di kurdî de pirsa erê/na ne bi bilindbûna dawiyê, bi lûtkeya dengê di kîteya dawî de tê nasîn.
 - ✅ 14.10 · 🤖 · Şapkaçêker: di nivîsa bê şapka de peyvên rast %61 → %96 (ê, î, û).
 - ✅ 14.10 · 🤖 · Amadekarê nivîsê: hejmar, saet û dîrok bi kurdî tên xwendin.
@@ -119,7 +119,7 @@ Di kurdî de giranî û awaz her tişt e. Ji ber vê yekê her pêngav bi awazê
 
 - ✅ 13.10 · 🖥️ · Ceribandina 1: Perwerdeya sivik bi FLEURS. Xeletiya tîpan %20 → ~%5.
   - Ji pirsan tenê %47 bi awaza rast in.
-- ✅ 15.10 · 🖥️ hesabê deng · Ceribandina 2: Fêrbûna awaza pirsê bi pirsên Common Voice. Hakemê awazê: pirs 13/15 (%87), hevoka asayî 38/44 (%86). Lê zelalî kêm bû.
+- ✅ 15.10 · 🖥️ hesabê deng · Ceribandina 2: Fêrbûna awaza pirsê bi pirsên Common Voice. Pîvera awazê: pirs 13/15 (%87), hevoka asayî 38/44 (%86). Lê zelalî kêm bû.
 - ❌ 17.10 · 🖥️ · Ceribandina 3 (bi tomarên paqij, ji bo ku zelalî vegere): Têk çû û tomar vala ma. Kod ji nû ve û bi ewlehî hate nivîsîn.
 - ✅ 18.10 · 🖥️ · Ceribandina 3b: Perwerde qediya (1.341 gav, 9,5 saet dane). Herdu model hemû 257 hevokên awazê xwendin. Gava dawî, ku puan dide, têk çû.
 - ✅ 18.10 · 🖥️ · Puankirina Ceribandina 3b (257 hevok, herdu model li ser heman hevokan):
@@ -144,9 +144,9 @@ Di kurdî de giranî û awaz her tişt e. Ji ber vê yekê her pêngav bi awazê
   - **ḧ, ʿ û ẍ** di peyvên erebî de
   - **ŋ:** wek di *deng* de
   - **xw:** wek di *xwe* de
-  - Pêşniyar: ji bo deng ferhengeke bilêvkirinê, ku bi pîvana dengê (VOT) ji tomaran bixweber derkeve. Bnr. `olcumler/dengen-kurdi.md`.
-- ⬜ · 🖥️ · Ceribandina perçekirina nivîsê (tokenization): Modela deng peyveke kurdî bi navînî dike 2,8 perçe, peyveke îngilîzî dike 1,35 perçe. Em ê herfbiherf û bi nîşanên bilêvkirinê bipîvin.
+  - Pêşniyar: ji bo deng ferhengeke bilêvkirinê, ku bi pîvana dengê (VOT) ji tomaran bixweber derkeve. Bnr. `pivan/dengen-kurdi.md`.
+- ⬜ · 🖥️ · Ceribandina perçekirina nivîsê: Modela deng peyveke kurdî bi navînî dike 2,8 perçe, peyveke îngilîzî dike 1,35 perçe. Em ê herfbiherf û bi nîşanên bilêvkirinê bipîvin.
 
 ---
 
-*Ev defter piştî her encameke girîng tê nûkirin. Pirs û pêşniyar: li GitHubê "Issues".*
+*Ev defter piştî her encameke girîng tê nûkirin. Pirs û pêşniyar: li GitHubê, beşa "Issues" (pirs û pêşniyar).*
