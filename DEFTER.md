@@ -149,6 +149,15 @@ Di kurdî de giranî û awaz her tişt e. Ji ber vê yekê her pêngav bi awazê
   - Pêşniyar: ji bo deng ferhengeke bilêvkirinê, ku bi pîvana dengê (VOT) ji tomaran bixweber derkeve. Bnr. `pivan/dengen-kurdi.md`.
 - ⬜ · 🖥️ · Ceribandina perçekirina nivîsê: Modela deng peyveke kurdî bi navînî dike 2,8 perçe, peyveke îngilîzî dike 1,35 perçe. Em ê herfbiherf û bi nîşanên bilêvkirinê bipîvin.
 
+## Nû · 19–25 Cotmeh
+
+- ✅ 21.10 · 🖥️ · Guh bi Dengê Amerîka (tenê daneya vekirî): bi beşên paqijkirî yên Dengê Amerîka perwerdeya guh baştir bû. Xeletiya peyvan: Dengê Amerîka %22,2 → %20,4; axaftina rojane %27,6 → %25,9; xwendin %24,3 → %23,9. Hate qebûlkirin.
+- ✅ 20.10 · 🖥️ · Guhê sêyem (Whisper-kmr) li ser Dengê Amerîka xebitî. Niha sê guh hene; nivîsek tenê dema ku du guh li hev dikin tê girtin.
+- 🔄 25.10 · 🖥️ · Perwerdeya guh a dirêjtir (1.500 gav) dest pê kir.
+- 🔄 · 🖥️ · Ji bo deng: lîsteya beşên paqij ên Dengê Amerîka (yek axêver, 3–20 saniye, sê guh li hev dikin) û nîşanên nû yên daneya vekirî. Kod: `kaggle/ekim-acik-veri/`.
+- 🔄 · 👤 · Rûpelên guhdariyê: êdî her guhdar bersivên xwe cuda tomar dike; kesê ku bi hesabekî têneketî be hişyariyê dibîne.
+
+
 ---
 
 *Ev defter piştî her encameke girîng tê nûkirin. Pirs û pêşniyar: li GitHubê, beşa "Issues" (pirs û pêşniyar).*
