@@ -40,7 +40,7 @@ Ji bo pirs û pêşniyaran beşa **Issues** heye. Ji bo vê hesabekî belaş ê 
 | `kaggle/` | Ceribandin û perwerdeya guh li ser Kaggle (K2 ceribandin, K3 CTC, K4 LLM 1B) |
 | `awaz/` | Pîvera awazê û koma hevokan |
 | `guh/` | Nivîsandina reşnivîsê: LLM 1B nivîsê dide, CTC wextê peyvan |
-| `nivis/` | Amadekirina nivîsê (hejmar, şapka ê/î/û) |
+| `nivis/` | Amadekirina nivîsê (hejmar, şapka ê/î/û) û qata zimanê kurmancî (deng, lêker, giranî) |
 | `pivan/` | Encamên pîvanan (bi tirkî), di nav de dengên ku alfabe nîşan nade |
 | `dane/` | Lîsteya hemû tomaran: kîjan ketiye perwerdeyê, kîjan li dorê ye |
 | `DEFTER.md` | Hemû gav û yên li dorê |

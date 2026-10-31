@@ -1,0 +1,17 @@
+# Stress pairs, written for this project (31.10). Same word, same last place in the sentence, two readings by the books:
+# past plural (stress on the stem, T79: gótin) and infinitive after the passive hat (final, T79: gotín). Only the stress should differ.
+# Information only, not a locked exam: olcumler/kurmanci-token.md. Preverb line: the books differ (K28 preverb, T79 final).
+no	verb	past	infinitive	note
+1	kirin	Wan kar kirin.	Kar hat kirin.
+2	xwarin	Wan nan xwarin.	Nan hat xwarin.
+3	girtin	Wan derî girtin.	Derî hat girtin.
+4	birin	Wan pirtûk birin.	Pirtûk hat birin.
+5	gotin	Wan stran gotin.	Stran hat gotin.
+6	kuştin	Wan mirov kuştin.	Mirov hat kuştin.
+7	çandin	Wan dar çandin.	Dar hat çandin.
+8	şûştin	Wan cil şûştin.	Cil hat şûştin.
+9	firotin	Wan mal firotin.	Mal hat firotin.
+10	avêtin	Wan kevir avêtin.	Kevir hat avêtin.
+11	şewitandin	Wan gund şewitandin.	Gund hat şewitandin.
+12	çêkirin	Wan dîwar çêkirin.	Dîwar hat çêkirin.	preverb
+13	vekirin	Wan derî vekirin.	Derî hat vekirin.	preverb

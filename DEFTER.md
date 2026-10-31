@@ -149,6 +149,12 @@ Di kurdî de giranî û awaz her tişt e. Ji ber vê yekê her pêngav bi awazê
   - Pêşniyar: ji bo deng ferhengeke bilêvkirinê, ku bi pîvana dengê (VOT) ji tomaran bixweber derkeve. Bnr. `pivan/dengen-kurdi.md`.
 - ⬜ · 🖥️ · Ceribandina perçekirina nivîsê: Modela deng peyveke kurdî bi navînî dike 2,8 perçe, peyveke îngilîzî dike 1,35 perçe. Em ê herfbiherf û bi nîşanên bilêvkirinê bipîvin.
 
+## Nû · 31 Cotmeh
+
+- ✅ · 🤖 · Qata zimanê kurmancî: qaîdeyên du pirtûkên rêzimanê bûn kod (deng, hece, lêker, giranî). Nivîsa pirtûkan ne tê de ye. Bnr. `nivis/kurmanci/`.
+- ✅ · ⚙️ · Giranî li ser axaftina rastîn hat pîvan: nêzîkî 39 hezar peyv, ji sê çavkaniyan. Sê qaîde rast derketin (`-an`, `-ên`; pêşgira neyîniyê; `-iya`, `-iyê`). Du qaîde çewt derketin: `di-` giraniyê nagire û `-ekî` giraniyê nabe dawiya peyvê. Kod li gorî dengê rastîn hat guhertin. Bnr. `pivan/vurgu-olcum.md`.
+- 🔄 31.10 · 🖥️ · Ji bo deng nivîsa nû: her deng yek nîşan, `xw` jî yek. Du cure tên ceribandin: bi nîşana giraniyê û bê wê. Bnr. `pivan/kurmanci-token.md`.
+
 ## Nû · 19–25 Cotmeh
 
 - ✅ 21.10 · 🖥️ · Guh bi Dengê Amerîka (tenê daneya vekirî): bi beşên paqijkirî yên Dengê Amerîka perwerdeya guh baştir bû. Xeletiya peyvan: Dengê Amerîka %22,2 → %20,4; axaftina rojane %27,6 → %25,9; xwendin %24,3 → %23,9. Hate qebûlkirin.
