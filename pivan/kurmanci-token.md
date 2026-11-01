@@ -45,7 +45,7 @@ S27'nin üç cümlesi (a 11,01, b 2,75) çok az cümle, karar için kullanılmad
 ## Karar
 - **Vurgu işareti tutmadı (kural 2):** 1. şart b kolunda sağlanmadı, çiftlerde yön de yok. İşaret harf hatasını da artırdı. Çıkarıldı. Sınır: 11 çiftin yalnız 5'i iki okuyuşta da ölçülebildi, bu yüzden "işaret vurguyu taşıyamaz" değil, "bu koşuda taşımadı" denir.
 - **Harf dizisi:** kural 1 soru ezgisinde düştü, varsayılan olmadı. Kural 3 ve 4 de uymuyor, çünkü harf hatası geride değil, önde. **Bu durum ön kayıtta yoktu:** a kolu %30 daha net okuyor ama soruyu daha az soru gibi okuyor. Eşikler sonradan gevşetilmedi.
-- **Üretimde S28 kalır.** Metin yolu ve a kolu saklanır, kayıp yok (cikti/lora-a/`).
+- **Üretimde S28 kalır.** Metin yolu ve a kolu saklanır, kayıp yok.
 
 ## Neden olabilir (ölçülmedi)
 Sorudaki kayıp eşik kayması değil, gerçek ayrım kaybı: AUC 0,70'ten 0,61'e indi. Olası sebep: `?` işareti 94 belirteç yerine 215 belirteç içinde kalıyor ve eğitim okumalarında soru az. Doğrulanmadı.
