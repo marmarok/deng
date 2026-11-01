@@ -28,5 +28,24 @@
 4. **Geride ve eğri düz:** ses öğretmeni S28 kalır, metin yolu geri alınmaz ama üretime girmez, sebep aranır.
 - Doğallığa insan kulağı karar verir; bu ölçüm yalnız "anlaşılıyor mu, ezgi doğru mu, vurgu istenen yere gidiyor mu" sorularını cevaplar.
 
-## Sonuç
-*Bekliyor.*
+## Sonuç (01.11 sabah)
+Eğitim iki kolda 1.500 adımı bitirdi (13,3 ve 14,0 sn/adım, 6,15 sa). Okuma 63,4 dk. Tablo ağırlıklara kaydedildi (41 × 2.048). Kayıp eğrisi üç seste de aynı (son bölüm a 0,80, b 0,83, S28 0,84).
+
+| Ölçü (düşük harf hatası iyi) | S28 | a: harf dizisi | b: + vurgu işareti | Eşik |
+|---|---|---|---|---|
+| Harf hatası, ezgi seti | 4,84 | **3,40** | 4,66 | ≤ 5,34 |
+| İlerleme cümleleri | 14,37 | **8,73** | 10,42 | |
+| Soru soru gibi | %47,6 | **%31,2** | %34,9 | ≥ %42,6 |
+| Düz düz gibi | %85,1 | %83,4 | %79,7 | ≥ %80,1 |
+| Soru/düz ayrımı (AUC, sonradan hesaplandı) | 0,70 | 0,61 | 0,62 | |
+| Çift göstergesi D: doğru yön, ortanca | 5/5, +0,38 | 3/7, −0,13 | 2/5, −0,09 | 8/11 ve iki kat |
+
+S27'nin üç cümlesi (a 11,01, b 2,75) çok az cümle, karar için kullanılmadı.
+
+## Karar
+- **Vurgu işareti tutmadı (kural 2):** 1. şart b kolunda sağlanmadı, çiftlerde yön de yok. İşaret harf hatasını da artırdı. Çıkarıldı. Sınır: 11 çiftin yalnız 5'i iki okuyuşta da ölçülebildi, bu yüzden "işaret vurguyu taşıyamaz" değil, "bu koşuda taşımadı" denir.
+- **Harf dizisi:** kural 1 soru ezgisinde düştü, varsayılan olmadı. Kural 3 ve 4 de uymuyor, çünkü harf hatası geride değil, önde. **Bu durum ön kayıtta yoktu:** a kolu %30 daha net okuyor ama soruyu daha az soru gibi okuyor. Eşikler sonradan gevşetilmedi.
+- **Üretimde S28 kalır.** Metin yolu ve a kolu saklanır, kayıp yok (cikti/lora-a/`).
+
+## Neden olabilir (ölçülmedi)
+Sorudaki kayıp eşik kayması değil, gerçek ayrım kaybı: AUC 0,70'ten 0,61'e indi. Olası sebep: `?` işareti 94 belirteç yerine 215 belirteç içinde kalıyor ve eğitim okumalarında soru az. Doğrulanmadı.

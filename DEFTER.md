@@ -153,7 +153,7 @@ Di kurdî de giranî û awaz her tişt e. Ji ber vê yekê her pêngav bi awazê
 
 - ✅ · 🤖 · Qata zimanê kurmancî: qaîdeyên du pirtûkên rêzimanê bûn kod (deng, hece, lêker, giranî). Nivîsa pirtûkan ne tê de ye. Bnr. `nivis/kurmanci/`.
 - ✅ · ⚙️ · Giranî li ser axaftina rastîn hat pîvan: nêzîkî 39 hezar peyv, ji sê çavkaniyan. Sê qaîde rast derketin (`-an`, `-ên`; pêşgira neyîniyê; `-iya`, `-iyê`). Du qaîde çewt derketin: `di-` giraniyê nagire û `-ekî` giraniyê nabe dawiya peyvê. Kod li gorî dengê rastîn hat guhertin. Bnr. `pivan/vurgu-olcum.md`.
-- 🔄 31.10 · 🖥️ · Ji bo deng nivîsa nû: her deng yek nîşan, `xw` jî yek. Du cure tên ceribandin: bi nîşana giraniyê û bê wê. Bnr. `pivan/kurmanci-token.md`.
+- ✅ 01.11 · 🖥️ · Ji bo deng nivîsa nû hat ceribandin: her deng yek nîşan, `xw` jî yek. Xeletiya tîpan %4,84 → %3,40 kêm bû, lê pirs kêmtir wek pirs tê xwendin (%47,6 → %31,2). Nîşana giraniyê alîkarî nekir. Ji ber vê yekê modela berê dimîne; ya nû tê parastin. Bnr. `pivan/kurmanci-token.md`.
 
 ## Nû · 19–25 Cotmeh
 
