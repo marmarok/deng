@@ -1,0 +1,20 @@
+name,url,licence,hours_estimated,kind,language
+Dengê Amerîka site arşivi (dengeamerika.com),https://www.dengeamerika.com,public domain (US government work),1021.8,"Radyo: röportaj, konuk, haber","Kurmancî (+ az Soranî, Behdînî)"
+Dengê Amerîka videoları (YouTube kanalı + VOA sitesi),https://www.youtube.com/channel/UC3kJgTQI0tithvEzYd7Bfhw,public domain (US government work),879.8,"Video haber, Kurd Connection",Kurmancî + Soranî
+Common Voice 27 (Kurmancî),https://mozilladatacollective.com/datasets/cmu5wfe5300boo107fblbekt9,CC0,77.5,Okuma (715 konuşmacı),Kurmancî
+FLEURS-Kobani,https://huggingface.co/datasets/aranemini/northern-kurdish-fleurs,CC BY,18.4,Okuma,Kurmancî
+Orient Kurdi,https://www.youtube.com/channel/UCxhWtpxNUzIo7wY24a1vzDw,CC BY,872.7,"Haber, söyleşi",Kurmancî + Arapça
+avesta I CHANNEL,https://www.youtube.com/channel/UCRbok3UDaon0Wxo57MSRIEQ,CC BY ~yarısı,73.3,"Kitap söyleşisi, sohbet",Kurmancî
+nezir turga,https://www.youtube.com/channel/UC7OcaTec9RzxbOrAO-GJFxw,CC BY,35.4,"Program, söyleşi",Kurmancî
+Banga Heq TV,https://www.youtube.com/channel/UCTcv7sVAebeofD6bEthR70A,CC BY,20.6,Dinî sohbet,Kurmancî + Zazakî
+Medyascope (Kürtçe programlar),https://www.youtube.com/channel/UCNCVuaQDvPrZ4oTKG90iqOA,CC BY,15.1,Söyleşi,Kurmancî
+Qur'ân bi Kurdî,https://www.youtube.com/channel/UCR6-lO08_fE0n8vWFZHokKA,CC BY,18.8,Meal okuması,denetlenecek
+Lingua Libre Kurmancî kelime kayıtları (Wikimedia Commons),https://commons.wikimedia.org/wiki/Category:Lingua_Libre_pronunciation-kmr,CC BY-SA 4.0 (dosya başına; Lingua Libre),1.0,"Kelime kayıtları, her biri yazılışıyla",Kurmancî
+"LIDA Stories, Kurmancî",https://lidastories.net/uk/stories/kmr/,CC BY 4.0,0.5,"Sesli öykü, tek okur",Kurmancî
+DoReCo Kurmancî (Multi-CAST),https://doreco.huma-num.fr/languages/nort2641,CC BY 4.0,1.2,"Saha anlatısı, sesbirim hizalı","Kurmancî (Muş, Erzurum)"
+kmr-tatoeba (Hugging Face),https://huggingface.co/datasets/aranemini/kmr-tatoeba,CC BY 4.0 (kart),,"Okunmuş cümle, çok okur",Kurmancî
+Common Voice 27 Zazakî,https://mozilladatacollective.com/datasets/cmu614kvl00k9nq07ffk51v85,CC0,2.0,"Okuma, 20 konuşmacı",Zazakî
+Hawrami Kurdish TTS 1.0 (Melbourne Ü.),https://mozilladatacollective.com/datasets/cml0wtouz026wno075aq7v201,CC BY,5.3,"Tek konuşmacı, stüdyo, yazılı",Hewramî (Goranî)
+stronganchor Zazakî,https://huggingface.co/datasets/stronganchor/zazaki-genc-speech,CC0,2.5,"Tek konuşmacı, kısa kesit",Zazakî (Genç)
+"FLEURS Soranî, Türkçe, Arapça, Farsça",https://huggingface.co/datasets/google/fleurs,CC BY,,Okuma,denetim dilleri
+"KuLD lehçe sınıflandırma veri seti (Halepçe Üniv., Mendeley)",https://data.mendeley.com/datasets/srkp2j4v93/2,CC BY 4.0,1.7,1 sn'lik kesitler,"Behdînî, Soranî, Hewramî"

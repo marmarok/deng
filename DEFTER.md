@@ -155,6 +155,11 @@ Di kurdî de giranî û awaz her tişt e. Ji ber vê yekê her pêngav bi awazê
 - ✅ · ⚙️ · Giranî li ser axaftina rastîn hat pîvan: nêzîkî 39 hezar peyv, ji sê çavkaniyan. Sê qaîde rast derketin (`-an`, `-ên`; pêşgira neyîniyê; `-iya`, `-iyê`). Du qaîde çewt derketin: `di-` giraniyê nagire û `-ekî` giraniyê nabe dawiya peyvê. Kod li gorî dengê rastîn hat guhertin. Bnr. `pivan/vurgu-olcum.md`.
 - ✅ 01.11 · 🖥️ · Ji bo deng nivîsa nû hat ceribandin: her deng yek nîşan, `xw` jî yek. Xeletiya tîpan %4,84 → %3,40 kêm bû, lê pirs kêmtir wek pirs tê xwendin (%47,6 → %31,2). Nîşana giraniyê alîkarî nekir. Ji ber vê yekê modela berê dimîne; ya nû tê parastin. Bnr. `pivan/kurmanci-token.md`.
 
+## Nû · 16–17 Mijdar
+
+- ✅ 17.11 · 🤖 · Nexşeya çavkaniyan hate vekirin: çavkaniyên bi lîsansa vekirî, hejmarên giştî (3.342 tomar) û nexşeya devokan. Peldank: `cavkani/`.
+- ✅ 17.11 · 🤖 · Du dengên tirkî yên biçûk (EMA Lightning, Antalia-2 Mini), modelên mîna wan û modelên farisî hatin xwendin; kodên wan hatin vekirin. Ders ji bo dengê me: `pivan/kucuk-ses-modelleri.md`.
+
 ## Nû · 19–25 Cotmeh
 
 - ✅ 21.10 · 🖥️ · Guh bi Dengê Amerîka (tenê daneya vekirî): bi beşên paqijkirî yên Dengê Amerîka perwerdeya guh baştir bû. Xeletiya peyvan: Dengê Amerîka %22,2 → %20,4; axaftina rojane %27,6 → %25,9; xwendin %24,3 → %23,9. Hate qebûlkirin.

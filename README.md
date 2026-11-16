@@ -43,6 +43,7 @@ Ji bo pirs û pêşniyaran beşa **Issues** heye. Ji bo vê hesabekî belaş ê 
 | `nivis/` | Amadekirina nivîsê (hejmar, şapka ê/î/û) û qata zimanê kurmancî (deng, lêker, giranî) |
 | `pivan/` | Encamên pîvanan (bi tirkî), di nav de dengên ku alfabe nîşan nade |
 | `dane/` | Lîsteya hemû tomaran: kîjan ketiye perwerdeyê, kîjan li dorê ye |
+| `cavkani/` | Nexşeya çavkaniyan: çavkaniyên vekirî, hejmarên giştî û nexşeya devokan |
 | `DEFTER.md` | Hemû gav û yên li dorê |
 
 Lîsans: MIT (kod). Daneyên kesên din li vir nînin.
