@@ -1,0 +1,18 @@
+name: "Ez dibim guhdar · Dinleyici olmak istiyorum · I want to listen"
+description: "Di du hefteyan de 15 deqe dengan guhdarî bike · İki haftada 15 dakika · 15 minutes every two weeks"
+title: "Guhdar: "
+labels: ["guhdar"]
+body:
+  - type: markdown
+    attributes:
+      value: "Spas! Agahiyên kesane (telefon, navnîşan) li vir nenivîse; em ê bi rêya GitHubê bersiv bidin. · Telefon ya da adres yazma; GitHub'dan cevap veririz. · Please do not post phone numbers or addresses here."
+  - type: dropdown
+    id: zarava
+    attributes:
+      label: "Kurmancî zimanê te yê dayikê ye? · Ana dilin Kurmancî mi? · Is Kurmanji your mother tongue?"
+      options: ["Erê · Evet · Yes", "Na, lê baş dizanim · Hayır ama iyi bilirim · No, but fluent"]
+    validations: {required: true}
+  - type: input
+    id: dever
+    attributes:
+      label: "Devok / herêm (ne mecbûrî) · Ağız / bölge (isteğe bağlı) · Dialect / region (optional)"

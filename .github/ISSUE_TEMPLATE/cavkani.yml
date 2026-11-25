@@ -1,0 +1,19 @@
+name: "Çavkaniyek dizanim · Kaynak biliyorum · I know a source"
+description: "Tomarên kurmancî (radyo, TV, podcast, pirtûka dengî) · Kurmancî kayıtlar · Kurmanji recordings"
+title: "Çavkanî: "
+labels: ["cavkani"]
+body:
+  - type: input
+    id: girêdan
+    attributes:
+      label: "Girêdan · Bağlantı · Link"
+    validations: {required: true}
+  - type: textarea
+    id: der
+    attributes:
+      label: "Çi tê de ye? Nivîs jî heye? · İçinde ne var? Metni de var mı? · What is in it? Is there text too?"
+  - type: dropdown
+    id: nas
+    attributes:
+      label: "Tu xwediyê wê nas dikî? · Sahibini tanıyor musun? · Do you know the owner?"
+      options: ["Na · Hayır · No", "Erê, dikarim bi hev bidim naskirin · Evet, tanıştırabilirim · Yes, I can introduce"]

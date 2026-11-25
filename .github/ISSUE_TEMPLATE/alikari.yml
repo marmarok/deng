@@ -1,0 +1,13 @@
+name: "Alîkarî / sponsor · Destek / sponsor · Support / sponsor"
+description: "Hêza hesabkirinê, cih, xwediyê deng an alîkariyeke din · GPU, depolama, ses sahibi ya da başka destek · Compute, storage, a voice or other help"
+title: "Alîkarî: "
+labels: ["alikari"]
+body:
+  - type: markdown
+    attributes:
+      value: "Berî nivîsê [DESTEK.md](https://github.com/marmarok/deng/blob/main/DESTEK.md) bixwîne. · Önce DESTEK.md'yi oku. · Please read DESTEK.md first."
+  - type: textarea
+    id: ci
+    attributes:
+      label: "Tu dikarî çi bidî? · Ne verebilirsin? · What can you offer?"
+    validations: {required: true}

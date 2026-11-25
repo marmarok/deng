@@ -47,6 +47,8 @@ Ji bo pirs û pêşniyaran beşa **Issues** heye. Ji bo vê hesabekî belaş ê 
 | `dane/` | Lîsteya hemû tomaran: kîjan ketiye perwerdeyê, kîjan li dorê ye |
 | `cavkani/` | Nexşeya çavkaniyan: çavkaniyên vekirî, hejmarên giştî û nexşeya devokan |
 | `pesketin/` | Pêşketina dengê modelê: deh hevok, her xwendin bi dîrok |
+| `makale/` | Du gotar (reşnivîs) · İki makale taslağı · Two paper drafts |
+| `DESTEK.md` | Alîkarî · Destek · Help |
 | `DEFTER.md` | Hemû gav û yên li dorê |
 
 Lîsans: MIT (kod). Daneyên kesên din li vir nînin.
@@ -75,3 +77,22 @@ In Kurdish, stress and intonation carry meaning, so prosody is measured first.
 🔊 **Listen:** each time the voice improves it reads the same ten locked sentences: **[marmarok.github.io/deng/pesketin](https://marmarok.github.io/deng/pesketin/)**
 
 Results are in `pivan/` (in Turkish). Code is MIT-licensed. No third-party recordings are included.
+
+<!-- pesketin:start -->
+
+## 🔊 Guhdarî bike: dengê Deng
+
+- [▶ Di 21ê Adarê de, saet di heftan de, 350 kes li meydanê bûn.](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/09.m4a)
+- [▶ Dema em gihîştin gund, roj çûbû ava; zarok li ber deriyan bûn û dayikan nan dipijand.](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/08.m4a)
+- [▶ Cegerxwîn û Celadet Bedirxan li Şamê rastî hev hatin.](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/10.m4a)
+- [▶ Bavê te hat?](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/02.m4a)
+- [▶ Bavê te hat.](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/03.m4a)
+- [▶ Te ev pirtûk ji ku derê kirî?](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/04.m4a)
+- [▶ Îro hewa li Amedê germ û sayî ye.](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/01.m4a)
+- [▶ Min got sibê, ne îro.](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/07.m4a)
+- [▶ Çi xweş e ku tu hatî!](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/05.m4a)
+- [▶ Ji kerema xwe derî bigire.](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/06.m4a)
+
+[Hemû xwendin](https://marmarok.github.io/deng/pesketin/)
+
+<!-- pesketin:end -->
