@@ -19,6 +19,8 @@ Di kurdî de giranî û awaz her tişt e. Ji ber vê yekê em pêşî awazê dip
 - **Pîvera awazê:** Amûreke ku awaza dawiya hevokê dipîve û dibêje "pirs e an hevoka asayî ye".
 - **Koma hevokên awazê:** 257 hevok, 14 cure. Ev hevok qet nakevin perwerdeyê.
 
+🔊 **Guhdarî bike:** dengê modelê, her car ku baştir dibe, heman deh hevokan dixwîne: **[marmarok.github.io/deng/pesketin](https://marmarok.github.io/deng/pesketin/)** ([pesketin/](pesketin/))
+
 Her gav bi dîrok, bi cihê ku lê hatiye kirin û bi encamê xwe di **[DEFTER.md](DEFTER.md)** de ye. Tiştên li dorê jî li wir in.
 
 ### Beşdar bibe
@@ -44,6 +46,7 @@ Ji bo pirs û pêşniyaran beşa **Issues** heye. Ji bo vê hesabekî belaş ê 
 | `pivan/` | Encamên pîvanan (bi tirkî), di nav de dengên ku alfabe nîşan nade |
 | `dane/` | Lîsteya hemû tomaran: kîjan ketiye perwerdeyê, kîjan li dorê ye |
 | `cavkani/` | Nexşeya çavkaniyan: çavkaniyên vekirî, hejmarên giştî û nexşeya devokan |
+| `pesketin/` | Pêşketina dengê modelê: deh hevok, her xwendin bi dîrok |
 | `DEFTER.md` | Hemû gav û yên li dorê |
 
 Lîsans: MIT (kod). Daneyên kesên din li vir nînin.
@@ -68,5 +71,7 @@ In Kurdish, stress and intonation carry meaning, so prosody is measured first.
   - On human Common Voice reads, it rates 89% of statements and 69% of questions as such.
   - Current TTS models get question intonation right less than half the time.
 - **Prosody test set:** 257 sentences in 14 types, mostly from Common Voice (CC0). These sentences are locked and never used for training.
+
+🔊 **Listen:** each time the voice improves it reads the same ten locked sentences: **[marmarok.github.io/deng/pesketin](https://marmarok.github.io/deng/pesketin/)**
 
 Results are in `pivan/` (in Turkish). Code is MIT-licensed. No third-party recordings are included.

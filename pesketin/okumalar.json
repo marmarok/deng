@@ -1,0 +1,13 @@
+[
+ {
+  "id": "2026-11-25-s34-mana",
+  "date": "2026-11-25",
+  "model": "S34 + ManaTTS",
+  "note_ku": "Xwendina yekem a vekirî. Model S34 e; rengê deng ji dengê studyoyeke vekirî (ManaTTS, CC0) tê, tenê di dema xwendinê de; ev deng nakeve perwerdeyê. Ceribandina kurt, 30 hevok; ceribandina mezin (267 hevok) didome.",
+  "note_tr": "İlk açık okuma. Model S34; ses rengi açık bir stüdyo sesinden (ManaTTS, CC0), yalnız okuma anında örnek alınıyor, eğitime girmiyor. 30 cümlelik kısa deneme: harf hatası 7,2 → 6,0, sorunun soru gibi söylenmesi %58 → %75 (yaklaşık on iki soru). On ilerleme cümlesinde harf hatası 7,3 → 9,0 kötüleşti. 267 cümlelik geniş sınav sürüyor.",
+  "note_en": "First public reading. Model S34; the timbre comes from an open studio voice (ManaTTS, CC0) used only as a reference at reading time, never in training. 30-sentence short trial: character error 7.2 → 6.0, questions heard as questions 58% → 75% (about a dozen questions). On the ten progress sentences character error got worse, 7.3 → 9.0. A 267-sentence test is running.",
+  "cer": 5.97,
+  "question": 75.0,
+  "k2_max": 0.338
+ }
+]
