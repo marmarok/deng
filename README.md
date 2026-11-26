@@ -82,16 +82,47 @@ Results are in `pivan/` (in Turkish). Code is MIT-licensed. No third-party recor
 
 ## 🔊 Guhdarî bike: dengê Deng
 
-- [▶ Di 21ê Adarê de, saet di heftan de, 350 kes li meydanê bûn.](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/09.m4a)
-- [▶ Dema em gihîştin gund, roj çûbû ava; zarok li ber deriyan bûn û dayikan nan dipijand.](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/08.m4a)
-- [▶ Cegerxwîn û Celadet Bedirxan li Şamê rastî hev hatin.](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/10.m4a)
-- [▶ Bavê te hat?](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/02.m4a)
-- [▶ Bavê te hat.](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/03.m4a)
-- [▶ Te ev pirtûk ji ku derê kirî?](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/04.m4a)
-- [▶ Îro hewa li Amedê germ û sayî ye.](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/01.m4a)
-- [▶ Min got sibê, ne îro.](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/07.m4a)
-- [▶ Çi xweş e ku tu hatî!](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/05.m4a)
-- [▶ Ji kerema xwe derî bigire.](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/06.m4a)
+Lîstikvanên dengê li ser rûpelê ne: **[marmarok.github.io/deng/pesketin/](https://marmarok.github.io/deng/pesketin/)**
+
+**Di 21ê Adarê de, saet di heftan de, 350 kes li meydanê bûn.**
+
+[▶ Guhdarî bike](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/09.m4a)
+
+**Dema em gihîştin gund, roj çûbû ava; zarok li ber deriyan bûn û dayikan nan dipijand.**
+
+[▶ Guhdarî bike](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/08.m4a)
+
+**Cegerxwîn û Celadet Bedirxan li Şamê rastî hev hatin.**
+
+[▶ Guhdarî bike](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/10.m4a)
+
+**Bavê te hat?**
+
+[▶ Guhdarî bike](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/02.m4a)
+
+**Bavê te hat.**
+
+[▶ Guhdarî bike](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/03.m4a)
+
+**Te ev pirtûk ji ku derê kirî?**
+
+[▶ Guhdarî bike](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/04.m4a)
+
+**Îro hewa li Amedê germ û sayî ye.**
+
+[▶ Guhdarî bike](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/01.m4a)
+
+**Min got sibê, ne îro.**
+
+[▶ Guhdarî bike](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/07.m4a)
+
+**Çi xweş e ku tu hatî!**
+
+[▶ Guhdarî bike](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/05.m4a)
+
+**Ji kerema xwe derî bigire.**
+
+[▶ Guhdarî bike](https://marmarok.github.io/deng/pesketin/2026-11-25-s34-mana/06.m4a)
 
 [Hemû xwendin](https://marmarok.github.io/deng/pesketin/)
 
