@@ -82,7 +82,7 @@ Results are in `pivan/` (in Turkish). Code is MIT-licensed. No third-party recor
 
 ## 🔊 Guhdarî bike: dengê Deng
 
-Lîstikvanên dengê li ser rûpelê ne: **[marmarok.github.io/deng/pesketin/](https://marmarok.github.io/deng/pesketin/)**
+Her hevok bi dengê xwe li vir e: **[marmarok.github.io/deng/pesketin/](https://marmarok.github.io/deng/pesketin/)**
 
 **Di 21ê Adarê de, saet di heftan de, 350 kes li meydanê bûn.**
 
